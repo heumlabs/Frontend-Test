@@ -9,7 +9,7 @@ npm install -g json-server
 
 ## 2. 서버 구동
 ```
-json-server --watch db.json
+json-server --nc false --watch db.json
 ```
 
 ## 3. 확인
